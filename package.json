@@ -1,0 +1,30 @@
+{
+  "name": "rajatk_project",
+  "version": "1.0.0",
+  "main": "rajatk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all": "*",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "parse5": "^7.1.2",
+    "request": "^2.88.2",
+    "xmldom": "^0.6.0",
+    "xmlserializer": "^0.6.1",
+    "xpath": "^0.0.32"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajatkharwar/Deeplogitech-assignment.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
